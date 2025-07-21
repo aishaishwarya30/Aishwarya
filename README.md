@@ -27,9 +27,6 @@
 - 🤝 I’m looking to collaborate on:  
   🚗 **Traffic Violation Detection using ML**
 
-- 💬 Ask me about:  
-  Web Dev, AI/ML basics, UGC content, YouTube, Hackathons 🎯
-
 - 📫 Reach me at:  
   📩 **aishaishwarya729@gmail.com**
 
